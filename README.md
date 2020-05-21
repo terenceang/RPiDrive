@@ -48,6 +48,6 @@ PuTTY
 https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 Where to buy.
-https://sg.cytron.io/p-raspberry-pi-zero-w (cheapest but out of stock)
+https://sg.cytron.io/p-raspberry-pi-zero-w (out of stock)
 
 
