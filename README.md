@@ -6,21 +6,21 @@ There are many instrcutions on how to make a Wifi USB drive but many are outdate
 
 Instructions here is only for use on a Raspi Zero W but it should work on any other RasPi (I don't intend to test it on any other raspi)
 
-Parts you need.
+#### Parts you need.
 1. Raspberry Pi Zero W.
 2. Short micro-USB cable.
 3. SD card (4GB or more)
 4. SD card reader/writer
 
-Software you need
+#### Software you need
 1. SD card image writer (I use etcher)
 2. Putty (or any ssh client)
 3. Raspbian Lite (headless)
 
-optional
+#### optional
 1. Puttygen to make ssh keys
 
-Steps
+#### Steps
 1. write image to SD.
 2. mount SD card
 3. edit 'wpa_supplicant.conf' to match your wifi network.
@@ -39,15 +39,15 @@ Steps
 
 how to for ssh, headless setup for Raspi, writing SDcard images can be found easily on many sites so I will not cover it here. 
 
-Links
-Raspbian Buster Lite
+#### Links
+#### Raspbian Buster Lite
 https://downloads.raspberrypi.org/raspbian_lite_latest
-Raspbian Buster Lite
+#### Raspbian Buster Lite
 https://www.balena.io/etcher
-PuTTY
+#### PuTTY
 https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
-Where to buy.
-https://sg.cytron.io/p-raspberry-pi-zero-w (out of stock)
+#### Where to buy.
+https://sg.cytron.io/p-raspberry-pi-zero-w (- out of stock)
 
 
