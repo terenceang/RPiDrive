@@ -36,7 +36,8 @@ Instructions here is only for use on a Raspi Zero W but it should work on any ot
 13. copy files to the shared drive
 14. select the files to print.
 
-
+#### Note
+Please change your password.
 how to for ssh, headless setup for Raspi, writing SDcard images can be found easily on many sites so I will not cover it here. 
 
 #### Links
