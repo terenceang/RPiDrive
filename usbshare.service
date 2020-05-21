@@ -1,0 +1,10 @@
+[Unit]
+Description=USB Share
+
+[Service]
+Type=simple
+ExecStart=/bin/bash /usr/local/share/usbshare.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
